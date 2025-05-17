@@ -65,5 +65,3 @@ El código está dividido en varios componentes para que sea más fácil de mant
 - El modo oscuro funciona agregando o quitando la clase `dark` en `<html>`, siguiendo la documentación oficial de Tailwind https://tailwindcss.com/docs/dark-mode.
 - El botón de modo oscuro alterna entre los dos modos y guarda la preferencia en el navegador.
 
----
->>>>>>> ad5a77b106ea457e26bf38b557795d36cbd7c560
